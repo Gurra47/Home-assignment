@@ -78,9 +78,6 @@ def main_interaktion():
         else:
             print("Felaktigt val")
 
-# Nedanstående är en vanlig konstruktion för att köra main_interaktion()-funktionen vid uppstart.
-# Ni behöver inte förstå hur denna kod funkar, bara att programmet startar med main_interaktion().
-
 
 if __name__ == "__main__":
     main_interaktion()
